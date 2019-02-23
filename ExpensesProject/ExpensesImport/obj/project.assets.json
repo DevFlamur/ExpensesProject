@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flamur\\source\\repos\\ExpensesProject\\Synergy.ExpensesProject.ExpensesImport\\ExpensesImport.csproj",
+      "projectUniqueName": "C:\\Users\\Flamur\\Desktop\\Git Tests\\Git Project 1\\ExpensesProject\\ExpensesProject\\ExpensesImport\\ExpensesImport.csproj",
       "projectName": "ExpensesImport",
-      "projectPath": "C:\\Users\\Flamur\\source\\repos\\ExpensesProject\\Synergy.ExpensesProject.ExpensesImport\\ExpensesImport.csproj",
+      "projectPath": "C:\\Users\\Flamur\\Desktop\\Git Tests\\Git Project 1\\ExpensesProject\\ExpensesProject\\ExpensesImport\\ExpensesImport.csproj",
       "packagesPath": "C:\\Users\\Flamur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flamur\\source\\repos\\ExpensesProject\\Synergy.ExpensesProject.ExpensesImport\\obj\\",
+      "outputPath": "C:\\Users\\Flamur\\Desktop\\Git Tests\\Git Project 1\\ExpensesProject\\ExpensesProject\\ExpensesImport\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flamur\\source\\repos\\ExpensesProject\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\Flamur\\Desktop\\Git Tests\\Git Project 1\\ExpensesProject\\ExpensesProject\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\Flamur\\source\\repos\\ExpensesProject\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\Flamur\\Desktop\\Git Tests\\Git Project 1\\ExpensesProject\\ExpensesProject\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Flamur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flamur\\source\\repos\\ExpensesProject\\Common\\obj\\",
+      "outputPath": "C:\\Users\\Flamur\\Desktop\\Git Tests\\Git Project 1\\ExpensesProject\\ExpensesProject\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

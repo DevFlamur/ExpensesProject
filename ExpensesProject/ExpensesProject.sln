@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesImport", "Synergy.ExpensesProject.ExpensesImport\ExpensesImport.csproj", "{A37D45D5-4D37-4A81-BF1C-C41D09F65113}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesImport", "ExpensesImport\ExpensesImport.csproj", "{A37D45D5-4D37-4A81-BF1C-C41D09F65113}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E122ED9D-BEC1-49F9-B2F1-613EA523F5B9}"
 EndProject
